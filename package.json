@@ -15,7 +15,10 @@
     "slack",
     "slash command"
   ],
-  "author": "D.E. Goodman-Wilson",
+  "authors": [
+    "D.E. Goodman-Wilson",
+    "Tristan Casebeer"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tristan-orange/join-multiple-slash-command-app/issues"

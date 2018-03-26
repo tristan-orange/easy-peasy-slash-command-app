@@ -1,4 +1,4 @@
-# easy-peasy-slash-command-app
-A template project to get you started writing Slack slash commands using Botkit
+# join-multiple-slash-command-app
+A Slack slash command for joining multiple channels, using Botkit.
 
-Follow along with [Easy Peasy Slash Commands](https://medium.com/slack-developer-blog/easy-peasy-slash-commands-getting-started-c37ff3f14d3e#.nfr4px2vi)
+Forked from  [easy-peasy-slash-command-app](https://github.com/DEGoodmanWilson/easy-peasy-slash-command-app)
